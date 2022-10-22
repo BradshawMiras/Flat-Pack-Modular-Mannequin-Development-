@@ -3,4 +3,4 @@ This is a public repository for all information pertaining to the Flat Pack Modu
 
 *Brief History* 
 
-In the spring of 2022 a team of museum mannequin experts came together to collaborate on a unique project challenge: Creating a mannequin system that was easy to use, with affordable materials and utilizing both low tech fabrication approachs as well as high tech software and machinery. This repository comprises the development and final products that this group created and is intended to be a resource for any individuals or institutions that might find it useful. 
+In the spring of 2022 a team of museum mannequin experts came together to collaborate on a unique project challenge: Creating a mannequin system that was easy to use, with affordable materials and utilizing both low tech fabrication approaches as well as high tech software and machinery. This repository comprises the development and final products that this group created and is intended to be a resource for any individuals or institutions that might find it useful. 
